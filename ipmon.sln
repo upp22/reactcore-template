@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ipmon.api", "ipmon.api\ipmon.api.csproj", "{DB40BB23-D32D-4D71-8603-014527C15561}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ipmon.common", "ipmon.common\ipmon.common.csproj", "{E91CF833-5C0E-46D2-BF24-EC9DA9807534}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB40BB23-D32D-4D71-8603-014527C15561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB40BB23-D32D-4D71-8603-014527C15561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB40BB23-D32D-4D71-8603-014527C15561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB40BB23-D32D-4D71-8603-014527C15561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E91CF833-5C0E-46D2-BF24-EC9DA9807534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E91CF833-5C0E-46D2-BF24-EC9DA9807534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E91CF833-5C0E-46D2-BF24-EC9DA9807534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E91CF833-5C0E-46D2-BF24-EC9DA9807534}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F7FA1BA-3697-4DB3-B4EC-4095C9009365}
+	EndGlobalSection
+EndGlobal
