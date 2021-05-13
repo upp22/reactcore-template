@@ -1,4 +1,4 @@
-# ipmon.api
+# .NET + REACT SPA
 
 .NET 5 + React SPA (apple silicon friendly)
 
